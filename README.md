@@ -1,5 +1,7 @@
 # Celebrity Image Classification Service
 
+![image](https://github.com/01cheese/Face-recognition/assets/115219323/dff8335b-584a-4238-81ee-508e84c54fb6)
+
 This project implements a web service for celebrity image classification. The web application is built using Flask on the backend and HTML/JavaScript on the frontend.
 
 ## Project Structure
